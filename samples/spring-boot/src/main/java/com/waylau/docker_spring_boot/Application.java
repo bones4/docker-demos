@@ -16,7 +16,7 @@ public class Application {
 
 	@RequestMapping("/")
 	public String home() {
-		return "Hello Docker World.修改为3.32 <br />"
+		return "Hello Docker World.修改为V4.24 <br />"
 				+ "Welcome to <a href='http://waylau.com'>waylau.com</a></li>";
 	}
 
